@@ -7,9 +7,9 @@
     <meta name="keywords" content="issue,bug,tracker" />
     <meta content="authenticity_token" name="csrf-param" />
     <meta content="TPiPnUsNZkh7nNNI24IUni0cLWpY47rvo6xUrID63eM=" name="csrf-token" />
-    <link rel='shortcut icon' href='/favicon.ico?1322400152' />
+    <link rel='shortcut icon' href='/public/favicon.ico' />
     <link href="/public/stylesheets/jquery/jquery-ui-1.11.0.css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/public/themes/redmine/stylesheets/application.css?1361112893" media="all" rel="stylesheet" type="text/css" />
+    <link href="/public/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
 
     <script src="/public/javascripts/jquery-1.11.1-ui-1.11.0-ujs-3.1.4.js" type="text/javascript"></script>
     <script src="/public/javascripts/application.js?1396109606" type="text/javascript"></script>
