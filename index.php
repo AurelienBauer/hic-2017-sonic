@@ -8,11 +8,11 @@
     <meta content="authenticity_token" name="csrf-param" />
     <meta content="TPiPnUsNZkh7nNNI24IUni0cLWpY47rvo6xUrID63eM=" name="csrf-token" />
     <link rel='shortcut icon' href='/favicon.ico?1322400152' />
-    <link href="/public/stylesheets/jquery/jquery-ui-1.9.2.css?1357736700" media="all" rel="stylesheet" type="text/css" />
-    <link href="/public/themes/redmine/stylesheets/application.css?1361112893" media="all" rel="stylesheet" type="text/css" />
+    <link href="public/stylesheets/jquery/jquery-ui-1.9.2.css?1357736700" media="all" rel="stylesheet" type="text/css" />
+    <link href="public/themes/redmine/stylesheets/application.css?1361112893" media="all" rel="stylesheet" type="text/css" />
 
-    <script src="/public/javascripts/jquery-1.8.3-ui-1.9.2-ujs-2.0.3.js?1357736700" type="text/javascript"></script>
-    <script src="/public/javascripts/application.js?1396109606" type="text/javascript"></script>
+    <script src="public/javascripts/jquery-1.8.3-ui-1.9.2-ujs-2.0.3.js?1357736700" type="text/javascript"></script>
+    <script src="public/javascripts/application.js?1396109606" type="text/javascript"></script>
     <script type="text/javascript">
       //<![CDATA[
 $(window).load(function(){ warnLeavingUnsaved('The current page contains unsaved text that will be lost if you leave this page.'); });
